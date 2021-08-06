@@ -1,0 +1,16 @@
+
+  
+  
+Hey Kien,
+
+There is something important we would like to inform you about.
+
+Starting from June 1st, a change has been made to how the FREE API plans work at fixer.
+
+API requests are now limited to 250 API calls per month for all FREE plans.
+
+These changes do not affect API users on the paid plans.
+
+Not to worry, your plan is still FREE and your API Key will continue to give you uninterrupted access to our API as long as you remain under the monthly request threshold.
+
+If you are interested in upgrading your plan, we offer plans as low as $10 a month for up to 10,000 API calls.
